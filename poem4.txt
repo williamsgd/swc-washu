@@ -1,5 +1,10 @@
 Creating a new file in someone elses repository.
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+HOLY SHIT.
+>>>>>>> f3c80c845fa9b01b417d1cc000ece5b205ce9a7d
 =======
 
 HOLY SHIT.
