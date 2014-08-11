@@ -6,18 +6,6 @@ Here is a second amendment to the text.
 <<<<<<< HEAD
 And another change.
 This one was on master.
-<<<<<<< HEAD
-
-I changed this in feelin-crazy branch!
-I changed this in a different area too!
-
-And another change.
-This one was on master.
-WTF?
-HEAD
-I CAN EDIT GRAHAM'S POEM.WTF?
-
-=======
 =======
 <<<<<<< HEAD
 I changed this in feelin-crazy branch!
@@ -28,10 +16,3 @@ And another change.
 This one was on master.
 >>>>>>> master
 >>>>>>> feeling-crazy
-
-<<<<<<< HEAD
-I CAN EDIT GRAHAM'S POEM.
-=======
-WTF?
->>>>>>> 52354872cc7c27b15aa400d5831983da124250c2
->>>>>>> f3c80c845fa9b01b417d1cc000ece5b205ce9a7d
