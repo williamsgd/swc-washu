@@ -17,4 +17,8 @@ This one was on master.
 >>>>>>> master
 >>>>>>> feeling-crazy
 
+<<<<<<< HEAD
 I CAN EDIT GRAHAM'S POEM.
+=======
+WTF?
+>>>>>>> 52354872cc7c27b15aa400d5831983da124250c2
